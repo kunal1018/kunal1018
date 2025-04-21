@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @kunal1018
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I’m Kunal Gandhi (@kunal1018)  
+🎓 Second-year Computer Science student at Wilfrid Laurier University  
+I'm passionate about data science, analytics, and building clean, user-focused applications.  
 
-<!---
-kunal1018/kunal1018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently learning advanced data structures, algorithms, and practical tools for real-world problem solving.  
+Looking to collaborate on data science projects — from insightful visualizations to smart machine learning solutions.  
+
+📫 kunalgandhi1018@gmail.com  
+Pronouns: He/Him
