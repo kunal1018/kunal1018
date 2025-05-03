@@ -1,5 +1,5 @@
 Hi, I’m Kunal Gandhi (@kunal1018)  
-🎓 Second-year Computer Science student at Wilfrid Laurier University  
+🎓 Third-year Computer Science student at Wilfrid Laurier University  
 I'm passionate about data science, analytics, and building clean, user-focused applications.  
 
 Currently learning advanced data structures, algorithms, and practical tools for real-world problem solving.  
